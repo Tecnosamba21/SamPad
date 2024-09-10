@@ -1,3 +1,4 @@
+![logo](logo.png)
 # SamPad 2024
 
 Welcome to the SamPad repos! But, What's SamPad??
