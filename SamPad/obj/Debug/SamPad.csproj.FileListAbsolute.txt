@@ -1,0 +1,5 @@
+C:\Users\34677\Documents\Programas\Aplicaciones de windows\SamPad\obj\Debug\SamPad.csproj.AssemblyReference.cache
+C:\Users\34677\Documents\Programas\Aplicaciones de windows\SamPad\obj\Debug\SamPad.SamPad.resources
+C:\Users\34677\Documents\Programas\Aplicaciones de windows\SamPad\obj\Debug\SamPad.Properties.Resources.resources
+C:\Users\34677\Documents\Programas\Aplicaciones de windows\SamPad\obj\Debug\SamPad.csproj.GenerateResource.cache
+C:\Users\34677\Documents\Programas\Aplicaciones de windows\SamPad\obj\Debug\SamPad.csproj.CoreCompileInputs.cache
