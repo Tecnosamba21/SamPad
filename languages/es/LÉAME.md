@@ -5,13 +5,13 @@ Bienvenido al repositorio de SamPad! Pero, ¿¿Qué es SamPad??
 
 ## Qué es SamPad
 
-SamPad es un proyecto de código abierto que pretende convertirse en una interesante (y cómoda) aplicación para editar, ver y editar cualquier tipo de archivos de texto
+SamPad es un proyecto de código abierto que pretende convertirse en una interesante (y cómoda) aplicación para crear, ver y editar cualquier tipo de archivos de texto
 
 ## Cómo... Probar SamPad!
 
 **IMPORTANTE:** SamPad está hecho con [.NET y Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/overview/?view=netdesktop-8.0) por lo que solo puede ser probado en Windows (desde Windows XP hasta Windows 11)
 
-Se que ha mucha jente le gusta probar las apps anted de instalarlas, por lo que si quieres probar SamPad antes de instalarlo, aquí están las instrucciones:
+Se que ha mucha jente le gusta probar las apps antes de instalarlas, por lo que si quieres probar SamPad antes de instalarlo, aquí están las instrucciones:
 
 ### Probar SamPad
 
