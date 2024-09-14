@@ -15,10 +15,10 @@ Se que ha mucha jente le gusta probar las apps anted de instalarlas, por lo que 
 
 ### Probar SamPad
 
-1. Ve a este [archivo](SamPad/bin/Release/SamPad.exe)
+1. Diríjase a este [archivo](SamPad/bin/Release/SamPad.exe)
 2. Después, seleccione *view raw*
 3. Cuando la descarga finalice ejecute la app
-4. Ahora, ¿Estás listo para **instalar SamPad**?
+4. Ahora, ¿Está listo para **instalar SamPad**?
 
 
 ## Cómo... Instalar SamPad!
