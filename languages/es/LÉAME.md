@@ -11,7 +11,7 @@ SamPad es un proyecto de código abierto que pretende convertirse en una interes
 
 **IMPORTANTE:** SamPad está hecho en [.NET y Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/overview/?view=netdesktop-8.0) por lo que solo puede ser instalado en Windows (desde Windows XP hasta Windows 11)
 
-### Isntalación Gráfica:
+### Instalación Gráfica:
 
 1. Diríjase a esta [carpeta](Sam_Pad-64x-1.0.0-instaler/Release/)
 2. Seleccione el archivo llamado: *Sam Pad.msi*
