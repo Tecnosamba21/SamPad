@@ -11,6 +11,20 @@ Welcome to the SamPad repos! But, What's SamPad??
 
 SamPad is an open source proyect that want's to become in an interesting and confortable way to write, see and edit whatever type of txt files
 
+## How to... Test SamPad!
+
+**IMPORTANT:** SamPad is made with [.NET and Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/overview/?view=netdesktop-8.0) so it just could be tested in Windows (from Windows XP to Windows 11)
+
+I know that many people like to test an app before install it, so if you want to test SamPad before to install it, here are the instructions:
+
+### Test SamPad
+
+1. Got to this [file](SamPad/bin/Release/SamPad.exe)
+2. Then, select *view raw*
+3. When the download become finished execute the app
+4. Now, Are you ready to **install SamPad**?
+
+
 ## How to... Install SamPad!
 
 **IMPORTANT:** SamPad is made with [.NET and Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/overview/?view=netdesktop-8.0) so it just could be installed in Windows (from Windows XP to Windows 11)
