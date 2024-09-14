@@ -3,7 +3,9 @@
 
 Welcome to the SamPad repos! But, What's SamPad??
 
-¿Eres español?: [Versión en español](languages/es/LÉAME.txt)
+¿Eres español?: [Versión en español](languages/es/LÉAME.md)
+
+¿Es galego?: [Versión en galego](languages/gal/LÉAME.md)
 
 ## What is SamPad
 
