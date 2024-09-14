@@ -3,6 +3,8 @@
 
 Welcome to the SamPad repos! But, What's SamPad??
 
+¿Eres español?: [Versión en español](languages/es/LÉAME.txt)
+
 ## What is SamPad
 
 SamPad is an open source proyect that want's to become in an interesting and confortable way to write, see and edit whatever type of txt files
