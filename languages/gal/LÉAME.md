@@ -1,7 +1,7 @@
 ![logo](https://github.com/Tecnosamba21/SamPad/blob/main/logo.png)
 # SamPad 2024
 
-Bienvenido al repositorio de SamPad! Pero, ¿¿Qué é SamPad??
+Benvido ao repositorio de SamPad! Pero, ¿¿Qué é SamPad??
 
 ## Qué é SamPad
 
