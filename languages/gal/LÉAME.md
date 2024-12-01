@@ -9,7 +9,8 @@ SamPad é un proxecto de código aberto que pretende convertirse nunha interesan
 
 ## Como... Probar SamPad!
 
-**IMPORTANTE:** SamPad está feito con [.NET y Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/overview/?view=netdesktop-8.0) polo que só pode ser probado en Windows (dende Windows XP hata Windows 11)
+> [!WARNING]
+> SamPad está feito con [.NET y Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/overview/?view=netdesktop-8.0) polo que só pode ser probado en Windows (dende Windows XP hata Windows 11)
 
 Se que a moita xente lle gusta probar as apps antes de instalalas, polo que se queres probar SamPad antes de instalalo, aquí están as instruccións:
 
@@ -23,7 +24,8 @@ Se que a moita xente lle gusta probar as apps antes de instalalas, polo que se q
 
 ## Como... Instalar SamPad!
 
-**IMPORTANTE:** SamPad está feito en [.NET e Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/overview/?view=netdesktop-8.0) polo que só pode ser instalado en Windows (dende Windows XP hata Windows 11)
+> [!WARNING]
+> SamPad está feito en [.NET e Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/overview/?view=netdesktop-8.0) polo que só pode ser instalado en Windows (dende Windows XP hata Windows 11)
 
 ### Instalación Gráfica:
 
