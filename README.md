@@ -1,21 +1,22 @@
 ![logo](logo.png)
 # SamPad 2024
 
-Welcome to the SamPad repos! But, What's SamPad??
+Welcome to the SamPad repo! But, What's SamPad??
 
-¿Eres español?: [Versión en español](languages/es/LÉAME.md)
-
-¿Es galego?: [Versión en galego](languages/gal/LÉAME.md)
+> [!NOTE]
+> ¿Eres español?: [Versión en español](languages/es/LÉAME.md),
+  Es galego?: [Versión en galego](languages/gal/LÉAME.md)
 
 ## What is SamPad
 
-SamPad is an open source proyect that want's to become in an interesting and confortable way to write, see and edit whatever type of txt files
+SamPad is an open source proyect that wants to become into an interesting and confortable way to write, see and edit whatever txt files type
 
 ## How to... Test SamPad!
 
-**IMPORTANT:** SamPad is made with [.NET and Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/overview/?view=netdesktop-8.0) so it just could be tested in Windows (from Windows XP to Windows 11)
+> [!WARNING]
+> SamPad is made with [.NET and Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/overview/?view=netdesktop-8.0) so it just could be tested in Windows (from Windows XP to Windows 11)
 
-I know that many people like to test an app before install it, so if you want to test SamPad before to install it, here are the instructions:
+I know that many people like to test an app before install it, so if you want to test SamPad, here are the instructions:
 
 ### Test SamPad
 
@@ -27,7 +28,8 @@ I know that many people like to test an app before install it, so if you want to
 
 ## How to... Install SamPad!
 
-**IMPORTANT:** SamPad is made with [.NET and Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/overview/?view=netdesktop-8.0) so it just could be installed in Windows (from Windows XP to Windows 11)
+> [!WARNING]
+> SamPad is made with [.NET and Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/overview/?view=netdesktop-8.0) so it just could be installed in Windows (from Windows XP to Windows 11)
 
 ### Graphical Install:
 
@@ -36,7 +38,7 @@ I know that many people like to test an app before install it, so if you want to
 3. Then, select *View raw*
 4. When the download become finished execute the installer
 5. Follow the steps of the installer
-6. Now you've SamPad installed in your computer!😁
+6. Now you've got SamPad installed in your computer!😁
 
 ### Install Using `git`:
   
