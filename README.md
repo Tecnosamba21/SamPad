@@ -9,7 +9,7 @@ Welcome to the SamPad repo! But, What's SamPad??
 
 ## What is SamPad
 
-SamPad is an open source proyect that wants to become into an interesting and confortable way to write, see and edit whatever txt files type
+SamPad is an open source project that wants to become into an interesting and confortable way to write, see and edit whatever txt files type
 
 ## How to... Test SamPad!
 
