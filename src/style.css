@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 2%;
+
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #525252;
+}
+
+textarea {
+    flex: 1;
+    background-color: #525252;
+    color: white;
+    padding: 1em;
+    border: 2px solid transparent;
+    outline: none;
+    font-family: system-ui;
+    font-weight: 500;
+    font-size: 16px;
+    resize: none;
+}
+
+::-webkit-scrollbar {
+    width: 1em;
+}
+
+::-webkit-scrollbar-track {
+    background: grey;
+    border-radius: 100vw;
+    margin-block: .1em;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(154, 154, 154);
+    border: .25em solid grey;
+    cursor: pointer;
+    border-radius: 100vw;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(82, 82, 82);
+}
+
+/** MENU */
+
+.menu {
+    padding-left: 1.5%;
+    display: flex;
+    gap: 2%;
+    background-color: rgb(43, 43, 43);
+    border-radius: 4px;
+    width: 97%;
+    align-self: center;
+    justify-self: center;
+}
+
+.menu-item {
+    color: #fff;
+    font-family: 'Cascadia Code';
+    cursor: pointer;
+    margin: .3%;
+    padding: .8%;
+    transition: background-color .25s;
+    border-radius: 3px;
+}
+
+.menu-item:hover {
+    background-color: #cdcdcd;
+    padding: .8%;
+}

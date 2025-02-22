@@ -1,4 +1,4 @@
-const { app, BrowserWindow } = require("electron")
+const { app, BrowserWindow, Menu, dialog } = require("electron")
 
 const createWindow = () => {
     const mainWindow = new BrowserWindow({
@@ -10,6 +10,16 @@ const createWindow = () => {
     mainWindow.loadFile('src/index.html')
 }
 
+const menu = [{
+    label: 'Tools',
+    submenu: [{
+        role: 'reload'
+    }]
+}]
+
+const menu_template = Menu.buildFromTemplate(menu)
+
+Menu.setApplicationMenu(menu_template)
 
 app.whenReady().then(() => {
     createWindow()
